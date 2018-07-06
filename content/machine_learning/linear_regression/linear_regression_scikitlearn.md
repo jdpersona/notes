@@ -1,6 +1,6 @@
 ---
 title: "Linear Regression"
-author: "Chris Albon"
+author: "John Ekedum"
 date: 2017-12-20T11:53:49-07:00
 description: "A simple example of linear regression in scikit-learn"
 type: technical_note
